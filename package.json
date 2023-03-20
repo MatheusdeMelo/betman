@@ -1,0 +1,24 @@
+{
+  "name": "betman",
+  "version": "1.0.0",
+  "description": "Esse projeto é chamado Betman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusdeMelo/betman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusdeMelo/betman/issues"
+  },
+  "homepage": "https://github.com/MatheusdeMelo/betman#readme",
+  "dependencies": {
+    "playwright": "^1.31.2"
+  }
+}
