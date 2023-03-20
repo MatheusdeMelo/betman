@@ -1,0 +1,7 @@
+Projeto Bet365
+
+Dados que vamos pegar:
+- Campeonato
+- Hora
+- Resultado (final)
+- Resultado (parcial)
